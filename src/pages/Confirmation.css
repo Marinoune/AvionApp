@@ -1,0 +1,21 @@
+.confirmation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 500px;
+}
+.yes {
+  align-items: center;
+  margin-bottom: 50px;
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.youpi{
+  background-color: pink;
+  width: auto;
+  height: auto;
+  border-color: #2390e3cb;
+  border-radius: 2px;
+}

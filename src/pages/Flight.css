@@ -1,0 +1,17 @@
+.card {
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    align-self: center;
+  }
+}
+.flight div{
+      translate: 0px 80px;
+}
+
+.buy {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}

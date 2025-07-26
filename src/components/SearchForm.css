@@ -1,0 +1,28 @@
+.SearchForm {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  max-width: 900px;
+  margin: 0px 20px 0px 20px;
+}
+
+h1{
+  color: black;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  width: 100%;
+}
+
+form > * {
+  flex: 1 1 400px;
+  min-width: 200px;
+}
+
+.lalala{
+  background-color: pink !important;
+}
